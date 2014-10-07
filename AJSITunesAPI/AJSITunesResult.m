@@ -111,7 +111,7 @@ NSString *const AJSITunesAttributeTvSeasonTerm = @"tvSeasonTerm";
               @"previewURL" : @"previewUrl",
               @"viewURL" : @"trackViewUrl",
               @"duration" : @"trackTimeMillis",
-              @"releaseDate" : @"releaseDate"
+              @"releaseDate" : @"releaseDate",
               @"imageURLString" : @"artworkUrl100"
     };
 }
